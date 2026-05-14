@@ -1,0 +1,6 @@
+fastmcp
+pytest
+mcp
+pydantic
+fastapi
+uvicorn
